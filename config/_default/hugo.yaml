@@ -14,16 +14,18 @@ baseURL: 'https://zbadalov.github.io/'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 languages:
   en:
     weight: 1
     title: "My Site"
+    baseURL: 'https://zbadalov.github.io/en/'
   ru:
     weight: 2
     title: "Мой сайт"
+    baseURL: 'https://zbadalov.github.io/ru/'
 
 ############################
 ## ADVANCED
