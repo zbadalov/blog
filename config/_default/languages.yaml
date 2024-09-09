@@ -12,26 +12,26 @@ ru:
   contentDir: "content/ru"
   menu:
     main:
-      - name: Био
-        url: /ru/
+      - name: Bio
+        url: /
         weight: 10
-      - name:  Доклады
-        url: /ru/#papers
+      - name:  Papers
+        url: /#papers
         weight: 20
-      - name: Выступления
-        url: /ru/#talks
+      - name: Talks
+        url: /#talks
         weight: 30
-      - name: Новости
-        url: /ru/#news
+      - name: News
+        url: /#news
         weight: 40
-      - name: Опыт
-        url: /ru/'experience'
+      - name: Experience
+        url: /'experience'
         weight: 50
-      - name: Проекты
-        url: /ru/'projects'
+      - name: Projects
+        url: /'projects'
         weight: 60
-      - name: Преподавание
-        url: /ru/teaching/
+      - name: Teaching
+        url: /teaching/
         weight: 60
       
       

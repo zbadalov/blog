@@ -3,25 +3,24 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+
 main:
-  - name: Bio
-    url: /
+  - name: Обо мне
+    url: /#about
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
+  - name: Мысли
     url: /#talks
     weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
+  - name: Опыт
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Проекты
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: Препaдование
     url: teaching/
     weight: 40
+  - name: Новости
+    url: /#news
+    weight: 40
+
