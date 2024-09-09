@@ -13,25 +13,25 @@ ru:
   menu:
     main:
       - name: Био
-        url: /
+        url: /ru/
         weight: 10
       - name:  Доклады
-        url: /#papers
+        url: /ru/#papers
         weight: 20
       - name: Выступления
-        url: /#talks
+        url: /ru/#talks
         weight: 30
       - name: Новости
-        url: /#news
+        url: /ru/#news
         weight: 40
       - name: Опыт
-        url: 'experience'
+        url: /ru/'experience'
         weight: 50
       - name: Проекты
-        url: 'projects'
+        url: /ru/'projects'
         weight: 60
       - name: Преподавание
-        url: teaching/
+        url: /ru/teaching/
         weight: 60
       
       
