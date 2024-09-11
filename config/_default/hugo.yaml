@@ -18,15 +18,7 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 
-languages:
-  en:
-    baseURL: 'https://zbadalov.github.io/en/'
-    weight: 1
-    title: "My Site"
-  ru:
-    baseURL: 'https://zbadalov.github.io/ru/'
-    weight: 2
-    title: "Мой сайт"
+
 
 ############################
 ## ADVANCED
