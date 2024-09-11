@@ -1,12 +1,12 @@
 # Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
+# Guide: https://docs.hugoblox.com/tutorial/	
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
-baseURL: 'https://zbadalov.github.io/'
+baseURL: 'https://zbadalov.github.io/en/'
 
 ############################
 ## LANGUAGE
@@ -14,18 +14,18 @@ baseURL: 'https://zbadalov.github.io/'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 languages:
   en:
+    baseURL: 'https://zbadalov.github.io/en/'
     weight: 1
     title: "My Site"
-    baseURL: 'https://zbadalov.github.io/en/'
   ru:
+    baseURL: 'https://zbadalov.github.io/ru/'
     weight: 2
     title: "Мой сайт"
-    baseURL: 'https://zbadalov.github.io/ru/'
 
 ############################
 ## ADVANCED
